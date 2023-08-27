@@ -9,13 +9,13 @@ To run the application locally for development, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/a-k-holod/django-react-template.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd your-project
+   cd django-react-template
    ```
 
 3. Make sure you have Docker and Node.js installed on your system.
